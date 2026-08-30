@@ -26,9 +26,9 @@
 
 I split my time between **Web Development** and **Unity Game Development**, and honestly the two feed each other, both are about making something interactive and feel *responsive*.
 
-- 🖥️ **Front-end** : building UIs with React, Vue, and Svelte. Type-safe, fast to load, and usable on whatever screen you throw at it.
-- 🎮 **Games** : Unity and C#. Mechanics, feel, Optimization and more.
-- 🎨 **Design-adjacent** : I do my own UI mockups, sprites, and 3D when a project needs them. Figma, Krita, Blender.
+- 🖥️ **Front-end** : building UIs with modern Framework such as React, Vue, and Svelte.
+- 🎮 **Games** : Unity and C#. Mechanics, Immersion, Optimization and more.
+- 🎨 **Design-adjacent** : I do my own UI mockups, sprites, and 3D when a project needs them,utilizing Figma, Krita and Blender.
 - 📦 **Ship it** : Vercel, Cloudflare, Docker, itch.io. Building it is half the job.
 
 ---
@@ -82,7 +82,7 @@ I split my time between **Web Development** and **Unity Game Development**, and 
 ---
 
 <p align="center">
-  <sub>Open to collaborations — web, games, or something in between. Reach me on any of the links above.</sub>
+  <sub>Open to collaborations web, games, or something in between. Reach me on any of the links above.</sub>
 </p>
 
 <p align="center">
