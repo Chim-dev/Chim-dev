@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <i>Hi. I'm Muhammad Abdurrachim a.k.a CarteChia, I care about the performances, how fast it loads, how smooth it moves,<br>and how little the user has to think about it.</i>
+  <i>Hi. I'm Muhammad Abdurrachim a.k.a CarteChia, I care about the performances, how fast it loads, how smooth it moves,<br>and how optimizes it can get</i>
 </p>
 
 <p align="center">
