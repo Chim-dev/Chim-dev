@@ -2,7 +2,7 @@
 <h1 align="center">Muhammad Abdurrachim</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=550&lines=Front-End+Developer;Unity+Game+Developer" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF4D8D&center=true&vCenter=true&width=550&lines=Front-End+Developer;Unity+Game+Developer" alt="Typing"/>
 </p>
 
 <p align="center">
