@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>I care about the milliseconds — how fast it loads, how smooth it moves,<br>and how little the user has to think about it.</i>
+  <i>I care about the performances, how fast it loads, how smooth it moves,<br>and how little the user has to think about it.</i>
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 I split my time between **the web** and **game engines**, and honestly the two feed each other — both are about making something interactive feel *responsive*.
 
-- 🖥️ **Front-end** — building UIs with React, Vue, and Svelte. Type-safe, fast to load, and usable on whatever screen you throw at it.
-- 🎮 **Games** — Unity and C#. Mechanics, feel, and the kind of polish you only notice when it's missing.
-- 🎨 **Design-adjacent** — I do my own UI mockups, sprites, and 3D when a project needs them. Figma, Krita, Blender.
-- 📦 **Ship it** — Vercel, Cloudflare, Docker, itch.io. Building it is half the job.
+- 🖥️ **Front-end** : building UIs with React, Vue, and Svelte. Type-safe, fast to load, and usable on whatever screen you throw at it.
+- 🎮 **Games** : Unity and C#. Mechanics, feel, Optimization and more.
+- 🎨 **Design-adjacent** : I do my own UI mockups, sprites, and 3D when a project needs them. Figma, Krita, Blender.
+- 📦 **Ship it** : Vercel, Cloudflare, Docker, itch.io. Building it is half the job.
 
 ---
 
