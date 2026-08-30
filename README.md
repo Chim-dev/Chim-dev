@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8E2DE2,100:11998e&text=Muhammad%20Abdurrachim&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Front-End%20%26%20Unity%20Developer&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8E2DE2,100:11998e&text=Chim&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=550&lines=Front-End+Developer;Unity+Game+Developer" alt="Typing"/>
+</p>
 <h1 align="center">Muhammad Abdurrachim</h1>
 
 <p align="center">
