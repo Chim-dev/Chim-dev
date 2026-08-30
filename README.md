@@ -10,7 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://chim-porto.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://chim-porto.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-FF4D8D?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="..."><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="..."><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/Muhammad Abdurrachim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/chocochimeh_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
@@ -19,7 +29,7 @@
 
 ### What I do
 
-I split my time between **the web** and **game engines**, and honestly the two feed each other — both are about making something interactive feel *responsive*.
+I split my time between **Web Development** and **Unity Game Development**, and honestly the two feed each other, both are about making something interactive and feel *responsive*.
 
 - 🖥️ **Front-end** : building UIs with React, Vue, and Svelte. Type-safe, fast to load, and usable on whatever screen you throw at it.
 - 🎮 **Games** : Unity and C#. Mechanics, feel, Optimization and more.
