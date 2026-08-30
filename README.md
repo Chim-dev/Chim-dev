@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&color=0:8E2DE2,50:2193b0,100:11998e&text=Muhammad%20Abdurrachim&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer%20%7C%20Unity%20Game%20Developer&descSize=20&descAlignY=60&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8E2DE2,100:11998e&text=Muhammad%20Abdurrachim&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Front-End%20%26%20Unity%20Developer&descAlignY=58&animation=fadeIn)
 
 <h1 align="center">Muhammad Abdurrachim</h1>
 
