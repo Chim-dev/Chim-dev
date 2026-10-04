@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <i>Hi. I'm Muhammad Abdurrachim a.k.a CarteChia, I care about the performances, how fast it loads, how smooth it moves,<br>and how optimizes it can get</i>
+  <i>Hi. I'm Muhammad Abdurrachim a.k.a CarteChia, I'm a Unity Game Developer and Web Developer</i>
 </p>
 
 <p align="center">
@@ -19,19 +19,6 @@
   <a href="https://linkedin.com/in/Muhammad Abdurrachim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/chocochimeh_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
----
-
-### What I do
-
-I split my time between **Web Development** and **Unity Game Development**, and honestly the two feed each other, both are about making something interactive and feel *responsive*.
-
-- 🖥️ **Front-end** : building UIs with modern Framework such as React, Vue, and Svelte.
-- 🎮 **Games** : Unity and C#. Mechanics, Immersion, Optimization and more.
-- 🎨 **Design-adjacent** : I do my own UI mockups, sprites, and 3D when a project needs them,utilizing Figma, Krita and Blender.
-- 📦 **Ship it** : Vercel, Cloudflare, Docker, itch.io. Building it is half the job.
-
----
 
 ### Tech I reach for most
 
@@ -82,7 +69,7 @@ I split my time between **Web Development** and **Unity Game Development**, and 
 ---
 
 <p align="center">
-  <sub>Open to collaborations web, games, or something in between. Reach me on any of the links above.</sub>
+  <sub>I'm open to collaborations web, games, or something in between. Reach me on any of the links above.</sub>
 </p>
 
 <p align="center">
