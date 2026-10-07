@@ -23,17 +23,6 @@
 
 <br>
 
-| | |
-|---|---|
-| **Languages** | TypeScript · JavaScript · C# · Java · HTML5 |
-| **Front-end** | React · Vue · Svelte / SvelteKit · Vite |
-| **Back-end** | Node.js · Express · Bun · npm |
-| **Databases** | PostgreSQL · MySQL · SQLite · Firebase · Supabase |
-| **Infra** | Vercel · Cloudflare · Docker |
-| **Game dev** | Unity · C# · itch.io |
-| **Design & 3D** | Figma · Krita · Blender · Canva |
-| **Data / ML** | Python · Pandas · NumPy · PyTorch · TensorFlow |
-| **Tooling** | Git · GitHub · Vitest |
 
 </details>
 
